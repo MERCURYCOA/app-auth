@@ -1,7 +1,7 @@
 {
-  "name": "meanauthapp",
+  "name": "pprp",
   "version": "1.0.0",
-  "description": "MEAN stack authentication app",
+  "description": "PPRP",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -16,7 +16,7 @@
     "passport": "0.4.0",
     "passport-jwt": "3.0.1"
   },
-  "author": "",
+  "author": "Shengnan Cao",
   "license": "MIT",
   "devDependencies": {
     "@angular/cli": "^1.6.0"
